@@ -1,0 +1,1984 @@
+{
+ "players": [
+  {
+   "wyId": 300000,
+   "shortName": "L. Ostath",
+   "firstName": "Lysan",
+   "middleName": "",
+   "lastName": "Ostath",
+   "height": 189,
+   "weight": 83,
+   "birthDate": "2006-10-18",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300001,
+   "shortName": "J. Selley",
+   "firstName": "Joral",
+   "middleName": "",
+   "lastName": "Selley",
+   "height": 193,
+   "weight": 88,
+   "birthDate": "2007-10-15",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300002,
+   "shortName": "D. Morley",
+   "firstName": "Dovan",
+   "middleName": "",
+   "lastName": "Morley",
+   "height": 182,
+   "weight": 64,
+   "birthDate": "1992-11-16",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300003,
+   "shortName": "R. Ostino",
+   "firstName": "Rasmo",
+   "middleName": "",
+   "lastName": "Ostino",
+   "height": 176,
+   "weight": 75,
+   "birthDate": "2006-06-26",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300004,
+   "shortName": "I. Praath",
+   "firstName": "Ivo",
+   "middleName": "",
+   "lastName": "Praath",
+   "height": 185,
+   "weight": 73,
+   "birthDate": "1992-05-15",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300005,
+   "shortName": "O. Zanescu",
+   "firstName": "Oren",
+   "middleName": "",
+   "lastName": "Zanescu",
+   "height": 179,
+   "weight": 78,
+   "birthDate": "1999-07-03",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300006,
+   "shortName": "I. Zanley",
+   "firstName": "Ivo",
+   "middleName": "",
+   "lastName": "Zanley",
+   "height": 184,
+   "weight": 89,
+   "birthDate": "2007-10-16",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300007,
+   "shortName": "I. Zanath",
+   "firstName": "Ivo",
+   "middleName": "",
+   "lastName": "Zanath",
+   "height": 183,
+   "weight": 80,
+   "birthDate": "1998-09-26",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300008,
+   "shortName": "T. Garino",
+   "firstName": "Tavin",
+   "middleName": "",
+   "lastName": "Garino",
+   "height": 184,
+   "weight": 85,
+   "birthDate": "1994-02-23",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300009,
+   "shortName": "P. Beluro",
+   "firstName": "Pavel",
+   "middleName": "",
+   "lastName": "Beluro",
+   "height": 183,
+   "weight": 71,
+   "birthDate": "2004-02-21",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300010,
+   "shortName": "S. Runescu",
+   "firstName": "Sorin",
+   "middleName": "",
+   "lastName": "Runescu",
+   "height": 185,
+   "weight": 72,
+   "birthDate": "2005-09-13",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300011,
+   "shortName": "R. Drilath",
+   "firstName": "Rasmo",
+   "middleName": "",
+   "lastName": "Drilath",
+   "height": 180,
+   "weight": 77,
+   "birthDate": "2006-04-10",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300012,
+   "shortName": "W. Drilovan",
+   "firstName": "Wendel",
+   "middleName": "",
+   "lastName": "Drilovan",
+   "height": 182,
+   "weight": 89,
+   "birthDate": "1991-09-16",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300013,
+   "shortName": "H. Zanino",
+   "firstName": "Halvar",
+   "middleName": "",
+   "lastName": "Zanino",
+   "height": 192,
+   "weight": 90,
+   "birthDate": "1998-08-26",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300014,
+   "shortName": "J. Fenescu",
+   "firstName": "Joral",
+   "middleName": "",
+   "lastName": "Fenescu",
+   "height": 171,
+   "weight": 78,
+   "birthDate": "1991-12-23",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300015,
+   "shortName": "V. Fenelli",
+   "firstName": "Valen",
+   "middleName": "",
+   "lastName": "Fenelli",
+   "height": 181,
+   "weight": 90,
+   "birthDate": "2004-12-16",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "both",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300016,
+   "shortName": "M. Lumelli",
+   "firstName": "Mirek",
+   "middleName": "",
+   "lastName": "Lumelli",
+   "height": 179,
+   "weight": 67,
+   "birthDate": "2006-04-24",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "left",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300017,
+   "shortName": "Y. Belard",
+   "firstName": "Yorik",
+   "middleName": "",
+   "lastName": "Belard",
+   "height": 182,
+   "weight": 82,
+   "birthDate": "2004-09-27",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "both",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": 7000,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300018,
+   "shortName": "M. Garic",
+   "firstName": "Mirek",
+   "middleName": "",
+   "lastName": "Garic",
+   "height": 192,
+   "weight": 81,
+   "birthDate": "1996-05-22",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300019,
+   "shortName": "U. Lummar",
+   "firstName": "Ulric",
+   "middleName": "",
+   "lastName": "Lummar",
+   "height": 186,
+   "weight": 88,
+   "birthDate": "1994-08-23",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61001,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300100,
+   "shortName": "T. Venath",
+   "firstName": "Teodor",
+   "middleName": "",
+   "lastName": "Venath",
+   "height": 195,
+   "weight": 86,
+   "birthDate": "1997-09-10",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300101,
+   "shortName": "M. Belescu",
+   "firstName": "Mirek",
+   "middleName": "",
+   "lastName": "Belescu",
+   "height": 195,
+   "weight": 73,
+   "birthDate": "1995-09-14",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "both",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300102,
+   "shortName": "I. Selard",
+   "firstName": "Ivo",
+   "middleName": "",
+   "lastName": "Selard",
+   "height": 171,
+   "weight": 76,
+   "birthDate": "2006-02-02",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300103,
+   "shortName": "W. Ostescu",
+   "firstName": "Wendel",
+   "middleName": "",
+   "lastName": "Ostescu",
+   "height": 192,
+   "weight": 64,
+   "birthDate": "2005-01-17",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300104,
+   "shortName": "L. Ostescu",
+   "firstName": "Lorin",
+   "middleName": "",
+   "lastName": "Ostescu",
+   "height": 183,
+   "weight": 78,
+   "birthDate": "1999-10-20",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300105,
+   "shortName": "V. Venard",
+   "firstName": "Valen",
+   "middleName": "",
+   "lastName": "Venard",
+   "height": 182,
+   "weight": 83,
+   "birthDate": "2006-04-22",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300106,
+   "shortName": "S. Talath",
+   "firstName": "Sorin",
+   "middleName": "",
+   "lastName": "Talath",
+   "height": 173,
+   "weight": 65,
+   "birthDate": "2002-11-18",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300107,
+   "shortName": "A. Vorovan",
+   "firstName": "Adrel",
+   "middleName": "",
+   "lastName": "Vorovan",
+   "height": 183,
+   "weight": 86,
+   "birthDate": "2004-11-01",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300108,
+   "shortName": "O. Lumath",
+   "firstName": "Oren",
+   "middleName": "",
+   "lastName": "Lumath",
+   "height": 172,
+   "weight": 69,
+   "birthDate": "1996-11-28",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300109,
+   "shortName": "B. Belelli",
+   "firstName": "Bastio",
+   "middleName": "",
+   "lastName": "Belelli",
+   "height": 185,
+   "weight": 77,
+   "birthDate": "2006-02-13",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300110,
+   "shortName": "F. Venmar",
+   "firstName": "Fynn",
+   "middleName": "",
+   "lastName": "Venmar",
+   "height": 192,
+   "weight": 90,
+   "birthDate": "1995-07-10",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300111,
+   "shortName": "K. Venmar",
+   "firstName": "Kesten",
+   "middleName": "",
+   "lastName": "Venmar",
+   "height": 184,
+   "weight": 89,
+   "birthDate": "2006-05-27",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300112,
+   "shortName": "L. Vorino",
+   "firstName": "Lysan",
+   "middleName": "",
+   "lastName": "Vorino",
+   "height": 182,
+   "weight": 84,
+   "birthDate": "1997-06-14",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300113,
+   "shortName": "N. Selberg",
+   "firstName": "Nilo",
+   "middleName": "",
+   "lastName": "Selberg",
+   "height": 173,
+   "weight": 75,
+   "birthDate": "1995-09-22",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "both",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300114,
+   "shortName": "O. Selath",
+   "firstName": "Osric",
+   "middleName": "",
+   "lastName": "Selath",
+   "height": 185,
+   "weight": 88,
+   "birthDate": "1996-10-24",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300115,
+   "shortName": "K. Garelli",
+   "firstName": "Kael",
+   "middleName": "",
+   "lastName": "Garelli",
+   "height": 176,
+   "weight": 67,
+   "birthDate": "1998-07-06",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300116,
+   "shortName": "L. Lumovan",
+   "firstName": "Lysan",
+   "middleName": "",
+   "lastName": "Lumovan",
+   "height": 191,
+   "weight": 89,
+   "birthDate": "2005-03-21",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": 7001,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300117,
+   "shortName": "Q. Talath",
+   "firstName": "Quill",
+   "middleName": "",
+   "lastName": "Talath",
+   "height": 177,
+   "weight": 74,
+   "birthDate": "2000-03-09",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300118,
+   "shortName": "E. Talovan",
+   "firstName": "Elric",
+   "middleName": "",
+   "lastName": "Talovan",
+   "height": 176,
+   "weight": 77,
+   "birthDate": "2003-01-02",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "left",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300119,
+   "shortName": "L. Kasovan",
+   "firstName": "Lysan",
+   "middleName": "",
+   "lastName": "Kasovan",
+   "height": 186,
+   "weight": 75,
+   "birthDate": "1999-06-25",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61002,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300200,
+   "shortName": "K. Garescu",
+   "firstName": "Kesten",
+   "middleName": "",
+   "lastName": "Garescu",
+   "height": 189,
+   "weight": 83,
+   "birthDate": "1991-08-14",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "both",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300201,
+   "shortName": "R. Zaneski",
+   "firstName": "Rasmo",
+   "middleName": "",
+   "lastName": "Zaneski",
+   "height": 190,
+   "weight": 76,
+   "birthDate": "2001-05-27",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Goalkeeper",
+    "code2": "GK",
+    "code3": "GKP"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300202,
+   "shortName": "H. Moranu",
+   "firstName": "Halvar",
+   "middleName": "",
+   "lastName": "Moranu",
+   "height": 178,
+   "weight": 73,
+   "birthDate": "2003-12-25",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300203,
+   "shortName": "V. Zaneski",
+   "firstName": "Valen",
+   "middleName": "",
+   "lastName": "Zaneski",
+   "height": 192,
+   "weight": 77,
+   "birthDate": "2005-06-19",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300204,
+   "shortName": "Z. Morath",
+   "firstName": "Zeno",
+   "middleName": "",
+   "lastName": "Morath",
+   "height": 171,
+   "weight": 69,
+   "birthDate": "2000-10-04",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300205,
+   "shortName": "L. Morard",
+   "firstName": "Lysan",
+   "middleName": "",
+   "lastName": "Morard",
+   "height": 188,
+   "weight": 73,
+   "birthDate": "2006-01-14",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300206,
+   "shortName": "O. Venmar",
+   "firstName": "Osric",
+   "middleName": "",
+   "lastName": "Venmar",
+   "height": 181,
+   "weight": 85,
+   "birthDate": "2003-04-25",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300207,
+   "shortName": "O. Venath",
+   "firstName": "Oren",
+   "middleName": "",
+   "lastName": "Venath",
+   "height": 189,
+   "weight": 81,
+   "birthDate": "1990-07-09",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300208,
+   "shortName": "V. Venino",
+   "firstName": "Valen",
+   "middleName": "",
+   "lastName": "Venino",
+   "height": 181,
+   "weight": 72,
+   "birthDate": "1990-06-05",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Defender",
+    "code2": "DF",
+    "code3": "DEF"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300209,
+   "shortName": "Q. Gareski",
+   "firstName": "Quill",
+   "middleName": "",
+   "lastName": "Gareski",
+   "height": 185,
+   "weight": 65,
+   "birthDate": "2004-11-28",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300210,
+   "shortName": "W. Fenberg",
+   "firstName": "Wendel",
+   "middleName": "",
+   "lastName": "Fenberg",
+   "height": 191,
+   "weight": 74,
+   "birthDate": "1998-01-22",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300211,
+   "shortName": "W. Morescu",
+   "firstName": "Wendel",
+   "middleName": "",
+   "lastName": "Morescu",
+   "height": 189,
+   "weight": 80,
+   "birthDate": "1997-03-24",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300212,
+   "shortName": "Z. Vorsek",
+   "firstName": "Zeno",
+   "middleName": "",
+   "lastName": "Vorsek",
+   "height": 176,
+   "weight": 74,
+   "birthDate": "2001-04-12",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "both",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300213,
+   "shortName": "H. Runescu",
+   "firstName": "Halvar",
+   "middleName": "",
+   "lastName": "Runescu",
+   "height": 189,
+   "weight": 82,
+   "birthDate": "2004-05-07",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300214,
+   "shortName": "B. Lumsek",
+   "firstName": "Bastio",
+   "middleName": "",
+   "lastName": "Lumsek",
+   "height": 179,
+   "weight": 90,
+   "birthDate": "1994-09-23",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Midfielder",
+    "code2": "MD",
+    "code3": "MID"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300215,
+   "shortName": "J. Selovan",
+   "firstName": "Joral",
+   "middleName": "",
+   "lastName": "Selovan",
+   "height": 191,
+   "weight": 72,
+   "birthDate": "1995-03-23",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300216,
+   "shortName": "T. Talota",
+   "firstName": "Teodor",
+   "middleName": "",
+   "lastName": "Talota",
+   "height": 185,
+   "weight": 70,
+   "birthDate": "2003-12-19",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "left",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300217,
+   "shortName": "F. Garovan",
+   "firstName": "Fynn",
+   "middleName": "",
+   "lastName": "Garovan",
+   "height": 184,
+   "weight": 89,
+   "birthDate": "2002-11-22",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300218,
+   "shortName": "B. Feneski",
+   "firstName": "Bastio",
+   "middleName": "",
+   "lastName": "Feneski",
+   "height": 185,
+   "weight": 72,
+   "birthDate": "1992-05-02",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": null,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  },
+  {
+   "wyId": 300219,
+   "shortName": "T. Garescu",
+   "firstName": "Teodor",
+   "middleName": "",
+   "lastName": "Garescu",
+   "height": 185,
+   "weight": 73,
+   "birthDate": "1996-06-05",
+   "birthArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "passportArea": {
+    "id": 642,
+    "alpha2code": "RO",
+    "alpha3code": "ROU",
+    "name": "Romania"
+   },
+   "role": {
+    "name": "Forward",
+    "code2": "FW",
+    "code3": "FWD"
+   },
+   "foot": "right",
+   "currentTeamId": 61003,
+   "currentNationalTeamId": 7002,
+   "gender": "male",
+   "status": "active",
+   "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+  }
+ ]
+}

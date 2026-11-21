@@ -1,0 +1,30 @@
+{
+ "wyId": 5900002,
+ "label": "Cascadia Rovers - Aurora FC, 1-1",
+ "date": "November 15, 2026 at 6:00:00 PM GMT+2",
+ "dateutc": "2026-11-15 16:00:00",
+ "status": "Played",
+ "duration": "Regular",
+ "winner": 0,
+ "competitionId": 99001,
+ "seasonId": 199001,
+ "roundId": 299001,
+ "gameweek": 12,
+ "venue": "Pinecrest Arena",
+ "teamsData": {
+  "61003": {
+   "teamId": 61003,
+   "side": "home",
+   "score": 1,
+   "scoreHT": 0,
+   "coachId": 0
+  },
+  "61001": {
+   "teamId": 61001,
+   "side": "away",
+   "score": 1,
+   "scoreHT": 1,
+   "coachId": 0
+  }
+ }
+}

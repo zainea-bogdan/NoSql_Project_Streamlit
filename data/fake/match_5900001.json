@@ -1,0 +1,30 @@
+{
+ "wyId": 5900001,
+ "label": "Aurora FC - Borealis United, 2-1",
+ "date": "November 8, 2026 at 6:00:00 PM GMT+2",
+ "dateutc": "2026-11-08 16:00:00",
+ "status": "Played",
+ "duration": "Regular",
+ "winner": 61001,
+ "competitionId": 99001,
+ "seasonId": 199001,
+ "roundId": 299001,
+ "gameweek": 13,
+ "venue": "Valmora Arena",
+ "teamsData": {
+  "61001": {
+   "teamId": 61001,
+   "side": "home",
+   "score": 2,
+   "scoreHT": 1,
+   "coachId": 0
+  },
+  "61002": {
+   "teamId": 61002,
+   "side": "away",
+   "score": 1,
+   "scoreHT": 0,
+   "coachId": 0
+  }
+ }
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "wyId": 61001,
+  "name": "Aurora FC",
+  "officialName": "Aurora Football Club",
+  "city": "Valmora",
+  "area": {
+   "id": 642,
+   "alpha2code": "RO",
+   "alpha3code": "ROU",
+   "name": "Romania"
+  },
+  "type": "club",
+  "category": "default",
+  "gender": "male",
+  "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+ },
+ {
+  "wyId": 61002,
+  "name": "Borealis United",
+  "officialName": "Borealis United SC",
+  "city": "Kestrel Bay",
+  "area": {
+   "id": 642,
+   "alpha2code": "RO",
+   "alpha3code": "ROU",
+   "name": "Romania"
+  },
+  "type": "club",
+  "category": "default",
+  "gender": "male",
+  "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+ },
+ {
+  "wyId": 61003,
+  "name": "Cascadia Rovers",
+  "officialName": "Cascadia Rovers FC",
+  "city": "Pinecrest",
+  "area": {
+   "id": 642,
+   "alpha2code": "RO",
+   "alpha3code": "ROU",
+   "name": "Romania"
+  },
+  "type": "club",
+  "category": "default",
+  "gender": "male",
+  "imageDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk"
+ }
+]
